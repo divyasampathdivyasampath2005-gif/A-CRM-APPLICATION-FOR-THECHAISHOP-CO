@@ -1,3 +1,2 @@
 # A-CRM-APPLICATION-FOR-THECHAISHOP-CO
-developer.salesforce/signup
-https://drive.google.com/drive/folders/1fCnatCShT1rcBbgGOnElZDJAAX_9GVIs?usp=sharing
+https://drive.google.com/file/d/1_eXLtaHzroZYLZqisJky9rT12ikGtIq3/view?usp=drive_link
